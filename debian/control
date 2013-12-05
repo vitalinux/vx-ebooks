@@ -1,5 +1,5 @@
 Source: vx-ebooks
-Section:
+Section: Miscellaneous
 Priority: extra
 Maintainer: Eduardo Romero <eduromo@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
